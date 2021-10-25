@@ -1,0 +1,30 @@
+2021-10-25 12:19:38.588206
+name 'a' is not defined
+2021-10-25 12:19:51.577703
+name 'a' is not defined
+name 'n' is not defined
+2021-10-25 12:46:51.531385
+2021-10-25 12:47:31.767826
+2021-10-25 12:47:49.820625
+2021-10-25 12:48:20.937805
+2021-10-25 12:48:47.947664
+2021-10-25 12:50:17.815771
+2021-10-25 12:52:15.536207
+unsupported operand type(s) for +: '_io.TextIOWrapper' and 'str'
+2021-10-25 12:53:36.364672
+can't concat str to bytes
+2021-10-25 12:54:08.390532
+[WinError 10054] Varolan bir baðlantý uzaktaki bir ana bilgisayar tarafýndan zorla kapatýldý
+2021-10-25 12:54:13.571954
+2021-10-25 12:56:06.375941
+[WinError 10054] Varolan bir baðlantý uzaktaki bir ana bilgisayar tarafýndan zorla kapatýldý
+can only concatenate str (not "tuple") to str
+2021-10-25 12:56:41.199899
+2021-10-25 12:57:01.572914
+2021-10-25 12:57:49.114168
+2021-10-25 13:00:20.931283
+[WinError 10054] Varolan bir baðlantý uzaktaki bir ana bilgisayar tarafýndan zorla kapatýldý
+2021-10-25 13:00:47.082591
+[WinError 10054] Varolan bir baðlantý uzaktaki bir ana bilgisayar tarafýndan zorla kapatýldý
+2021-10-25 13:00:56.385015
+[WinError 10054] Varolan bir baðlantý uzaktaki bir ana bilgisayar tarafýndan zorla kapatýldý

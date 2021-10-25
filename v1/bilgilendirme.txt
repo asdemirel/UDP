@@ -1,0 +1,4 @@
+TCP protokolü kullanmaktadır.
+
+Client'dan Server tarafına veri atılıyor.
+Bir taraf koptuğunda yeniden bağlantı mekanizması yok.
